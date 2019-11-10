@@ -3,6 +3,9 @@ Dynamics for retopology.
 
 This is an alpha version, probably full of bugs, use at your own risk.
 
+Softwrap is now finished for windows, and you can get it at BlenderMarket.
+https://blendermarket.com/products/softwrap
+
 # considerations before using:
  * This is a slow addon, decimate your sculpt before using it
  * Make sure your models are roughly the same scale and aligned to make transfer easier.
